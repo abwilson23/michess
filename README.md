@@ -1,7 +1,6 @@
 # michess
 
-## MVP Definition
-Goal: Create a working chess bot that can play a single game locally, trained on your chess history, demonstrating basic style mimicking.
+An LLM fine-tuned to play chess like me.  
 
 ## Success Criteria:
 
